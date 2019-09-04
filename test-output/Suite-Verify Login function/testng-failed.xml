@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite-Verify Login function]">
+  <parameter name="sUsername" value="tmaTestAdmin"/>
+  <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+  <parameter name="sPassword" value="tmaTestAdmin0"/>
+  <test name="Login Success">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+    <parameter name="sPassword" value="tmaTestAdmin0"/>
+    <classes>
+      <class name="tests.TC_HomePage"/>
+    </classes>
+  </test> <!-- Login Success -->
+  <test name="Login Success(failed)">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+    <parameter name="sPassword" value="tmaTestAdmin0"/>
+    <classes>
+      <class name="tests.TC_HomePage">
+        <methods>
+          <include name="seeBox" invocation-numbers="1 2 3 4 5 6"/>
+          <include name="initialDelay"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.TC_HomePage -->
+    </classes>
+  </test> <!-- Login Success(failed) -->
+</suite> <!-- Failed suite [Suite-Verify Login function] -->

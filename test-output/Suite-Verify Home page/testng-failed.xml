@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite-Verify Home page]">
+  <parameter name="sUsername" value="tmaTestAdmin"/>
+  <parameter name="value" value="LOC000090995977"/>
+  <parameter name="url" value="http://10.3.2.10:9292/partner-portal/?bureau=cortel"/>
+  <parameter name="sPassword" value="tmaTestAdmin0"/>
+  <test name="Visible Boxes under Home page">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="value" value="LOC000090995977"/>
+    <parameter name="url" value="http://10.3.2.10:9292/partner-portal/?bureau=cortel"/>
+    <parameter name="sPassword" value="tmaTestAdmin0"/>
+    <classes>
+      <class name="tests.TC_SQPage"/>
+    </classes>
+  </test> <!-- Visible Boxes under Home page -->
+</suite> <!-- Failed suite [Suite-Verify Home page] -->

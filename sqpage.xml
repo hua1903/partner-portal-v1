@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite-Verify Service Qualification page">
+	<test name="Search Location ID">
+		<parameter name="url" value="http://10.3.2.10:9292/partner-portal/?bureau=cortel" />
+		<parameter name="sUsername" value="tmaTestAdmin" />
+		<parameter name="sPassword" value="tmaTestAdmin0" />
+		<parameter name="searchField" value="Location ID" />
+		<parameter name="value" value="LOC000029911414" />
+		<classes>
+			<class name="tests.TC_SearchLocationID" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

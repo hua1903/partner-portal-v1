@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite-Verify Service Qualification page" duration-ms="53230" started-at="2019-09-04T07:00:37Z" finished-at="2019-09-04T07:01:31Z">
+    <groups>
+    </groups>
+    <test name="Search Location ID" duration-ms="53230" started-at="2019-09-04T07:00:37Z" finished-at="2019-09-04T07:01:31Z">
+      <class name="tests.TC_SearchLocationID">
+        <test-method status="PASS" signature="initialDelay()[pri:0, instance:tests.TC_SearchLocationID@3cda1055]" name="initialDelay" is-config="true" duration-ms="2007" started-at="2019-09-04T14:00:35Z" finished-at="2019-09-04T14:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDelay -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TC_SearchLocationID@3cda1055]" name="setUp" is-config="true" duration-ms="1605" started-at="2019-09-04T14:00:37Z" finished-at="2019-09-04T14:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gotoWeb(java.lang.String)[pri:1, instance:tests.TC_SearchLocationID@3cda1055]" name="gotoWeb" duration-ms="11930" started-at="2019-09-04T14:00:39Z" finished-at="2019-09-04T14:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://10.3.2.10:9292/partner-portal/?bureau=cortel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoWeb -->
+        <test-method status="PASS" signature="loginSuccess(java.lang.String, java.lang.String)[pri:2, instance:tests.TC_SearchLocationID@3cda1055]" name="loginSuccess" duration-ms="1163" started-at="2019-09-04T14:00:51Z" finished-at="2019-09-04T14:00:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tmaTestAdmin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmaTestAdmin0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method status="PASS" signature="navigateToBox(java.lang.String)[pri:3, instance:tests.TC_SearchLocationID@3cda1055]" name="navigateToBox" duration-ms="177" started-at="2019-09-04T14:00:52Z" data-provider="box" finished-at="2019-09-04T14:00:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Service Qualification]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToBox -->
+        <test-method status="PASS" signature="seeSearchTbox()[pri:4, instance:tests.TC_SearchLocationID@3cda1055]" name="seeSearchTbox" duration-ms="23" started-at="2019-09-04T14:00:52Z" finished-at="2019-09-04T14:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seeSearchTbox -->
+        <test-method status="PASS" signature="searchLocationID(java.lang.String)[pri:5, instance:tests.TC_SearchLocationID@3cda1055]" name="searchLocationID" duration-ms="29252" started-at="2019-09-04T14:00:52Z" finished-at="2019-09-04T14:01:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LOC000029911414]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocationID -->
+        <test-method status="PASS" signature="createJsonFileSQPage(java.lang.String, java.lang.String)[pri:6, instance:tests.TC_SearchLocationID@3cda1055]" name="createJsonFileSQPage" duration-ms="5998" started-at="2019-09-04T14:01:22Z" finished-at="2019-09-04T14:01:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Location ID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LOC000029911414]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createJsonFileSQPage -->
+        <test-method status="PASS" signature="verifySingleAddress(java.lang.String)[pri:7, instance:tests.TC_SearchLocationID@3cda1055]" name="verifySingleAddress" duration-ms="3013" started-at="2019-09-04T14:01:28Z" finished-at="2019-09-04T14:01:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LOC000029911414]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySingleAddress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TC_SearchLocationID@3cda1055]" name="tearDown" is-config="true" duration-ms="57" started-at="2019-09-04T14:01:31Z" finished-at="2019-09-04T14:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC_SearchLocationID -->
+    </test> <!-- Search Location ID -->
+  </suite> <!-- Suite-Verify Service Qualification page -->
+</testng-results>

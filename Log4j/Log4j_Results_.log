@@ -1,0 +1,199 @@
+2019-09-03T16:31:58.341Z  INFO main utilities.Log:21 - Login success
+2019-09-03T16:32:10.442Z  INFO main utilities.Log:21 - Login success
+2019-09-03T16:33:42.066Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:15:03.897Z  INFO main utilities.Log:21 - I see the message: Username or password invalid
+2019-09-03T17:15:14.410Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:18:55.804Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:18:55.837Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:20:45.581Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:20:45.614Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:20:45.641Z  INFO main utilities.Log:21 - The box CINDY is displayed under Home page
+2019-09-03T17:20:45.668Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:20:45.697Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:20:45.725Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:20:45.785Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:22:05.270Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:22:05.302Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:22:05.330Z  INFO main utilities.Log:21 - The box CINDY is displayed under Home page
+2019-09-03T17:22:05.359Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:22:05.388Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:22:05.415Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:22:05.447Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:35:11.608Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:35:11.643Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:35:11.674Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:35:11.703Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:35:11.732Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:35:11.763Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:35:11.833Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-03T17:35:11.852Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:35:11.878Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:35:12.469Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:35:12.496Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:35:12.559Z  INFO main utilities.Log:21 - Clicked on box Accounts
+2019-09-03T17:35:12.571Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:35:12.583Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:35:13.192Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:35:13.220Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:35:13.296Z  INFO main utilities.Log:21 - Clicked on box Product Application
+2019-09-03T17:35:13.309Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:35:13.323Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:37:08.470Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:37:08.502Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:37:08.531Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:37:08.559Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:37:08.589Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:37:08.619Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:37:08.690Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-03T17:37:08.706Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:37:08.722Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:37:10.328Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:37:10.354Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:37:10.421Z  INFO main utilities.Log:21 - Clicked on box Accounts
+2019-09-03T17:37:10.434Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:37:10.448Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:37:12.040Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:37:12.065Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:37:12.135Z  INFO main utilities.Log:21 - Clicked on box Product Application
+2019-09-03T17:37:12.147Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:37:12.159Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:39:05.456Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:39:05.490Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:39:05.521Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:39:05.550Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:39:05.581Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:39:05.612Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:39:05.696Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-03T17:39:05.712Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:39:05.726Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:39:07.339Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:39:07.366Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:39:07.437Z  INFO main utilities.Log:21 - Clicked on box Accounts
+2019-09-03T17:39:07.448Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:39:07.461Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:39:09.052Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:39:09.077Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:39:09.150Z  INFO main utilities.Log:21 - Clicked on box Product Application
+2019-09-03T17:39:09.162Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:39:09.174Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:10.099Z  INFO main utilities.Log:21 - Login success
+2019-09-03T17:51:10.133Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:51:10.162Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:51:10.190Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:51:10.220Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:51:10.247Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T17:51:10.319Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-03T17:51:10.336Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:51:10.352Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:11.973Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:51:12.003Z  INFO main utilities.Log:21 - The box Service Qualification is displayed under Home page
+2019-09-03T17:51:12.066Z  INFO main utilities.Log:21 - Clicked on box Accounts
+2019-09-03T17:51:12.078Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:51:12.095Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:13.716Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:51:13.743Z  INFO main utilities.Log:21 - The box Accounts is displayed under Home page
+2019-09-03T17:51:13.812Z  INFO main utilities.Log:21 - Clicked on box Product Application
+2019-09-03T17:51:13.825Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:51:13.838Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:15.480Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:51:15.505Z  INFO main utilities.Log:21 - The box Product Application is displayed under Home page
+2019-09-03T17:51:15.571Z  INFO main utilities.Log:21 - Clicked on box Bureau Reports
+2019-09-03T17:51:15.584Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:51:15.595Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:17.216Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:51:17.246Z  INFO main utilities.Log:21 - The box Bureau Reports is displayed under Home page
+2019-09-03T17:51:17.316Z  INFO main utilities.Log:21 - Clicked on box Gap Payments
+2019-09-03T17:51:17.329Z  INFO main utilities.Log:21 - See the Home button
+2019-09-03T17:51:17.341Z  INFO main utilities.Log:21 - See the Logout button
+2019-09-03T17:51:19.133Z  INFO main utilities.Log:21 - Clicked on Home button
+2019-09-03T17:51:19.160Z  INFO main utilities.Log:21 - The box Gap Payments is displayed under Home page
+2019-09-03T18:08:59.635Z  INFO main utilities.Log:21 - Login success
+2019-09-03T18:08:59.713Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-03T18:08:59.740Z  INFO main utilities.Log:21 - See Search textbox under SQ page
+2019-09-03T18:09:00.923Z  INFO main utilities.Log:21 - Entered value: LOC000090995977
+2019-09-03T18:09:51.303Z  WARN main utilities.Log:26 - Sorry
+You either entered an invalid value or we could not find it in our system
+2019-09-03T18:09:51.359Z  INFO main utilities.Log:21 - Clicked on Search button
+2019-09-04T10:39:55.379Z  INFO main utilities.Log:21 - Login success
+2019-09-04T10:39:55.461Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-04T10:39:55.478Z  INFO main utilities.Log:21 - See Search textbox under SQ page
+2019-09-04T10:39:56.640Z  INFO main utilities.Log:21 - Entered value: LOC000029911414
+2019-09-04T10:39:56.945Z  INFO main utilities.Log:21 - Clicked on Search button
+2019-09-04T10:40:07.737Z  INFO main utilities.Log:21 - {"code":200,"message":"Search NBN detail by LocationId successfully","data":{"info":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceable":true,"region":"Urban","cvcId":"CVC000000517867","primaryAccess":"Fibre To The Node","networkBoundaryPoint":"Telecommunications Outlet","networkCoexistence":"Yes","serviceabilityClass":"13","newDevelopmentCharge":false,"copperPairId":"CPI300001636264","tc4DownstreamUpperRate":"100","tc4DownstreamLowerRate":"44","tc4UpstreamUpperRate":"40","tc4UpstreamLowerRate":"23","subsequentInstallationChargeApplies":"No","serviceClassDescription":null,"serviceClassLeadTime":null,"poiId":"4NBR","rawSQResultList":[{"name":"Address Location :","value":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceDescription":null,"serviceLeadTime":null},{"name":"Serviceability :","value":"Serviceable","serviceDescription":null,"serviceLeadTime":null},{"name":"Region","value":"Urban","serviceDescription":null,"serviceLeadTime":null},{"name":"cvcId","value":"CVC000000517867","serviceDescription":null,"serviceLeadTime":null},{"name":"PrimaryAccessTechnology","value":"Fibre To The Node","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Boundary Point","value":"Telecommunications Outlet","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"Business Fibre","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"NewDevelopmentsChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001659707","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"12","serviceDescription":"Site is serviceable by copper, jumpering is required.","serviceLeadTime":"10-15 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"20","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Copper Pair Status","value":"Inactive","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001636264","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"44","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"23","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"NBN Service Status","value":"Line Not In Use","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Last Active Date","value":"2017-12-22","serviceDescription":null,"serviceLeadTime":null}]},"success":true}
+2019-09-04T10:40:07.741Z  INFO main utilities.Log:21 - cannot create the json file for the field Location ID with the value LOC000029911414
+2019-09-04T10:41:18.557Z  INFO main utilities.Log:21 - Login success
+2019-09-04T10:41:18.638Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-04T10:41:18.654Z  INFO main utilities.Log:21 - See Search textbox under SQ page
+2019-09-04T10:41:19.834Z  INFO main utilities.Log:21 - Entered value: LOC000029911414
+2019-09-04T10:41:20.242Z  INFO main utilities.Log:21 - Clicked on Search button
+2019-09-04T10:41:30.865Z  INFO main utilities.Log:21 - {"code":200,"message":"Search NBN detail by LocationId successfully","data":{"info":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceable":true,"region":"Urban","cvcId":"CVC000000517867","primaryAccess":"Fibre To The Node","networkBoundaryPoint":"Telecommunications Outlet","networkCoexistence":"Yes","serviceabilityClass":"13","newDevelopmentCharge":false,"copperPairId":"CPI300001636264","tc4DownstreamUpperRate":"100","tc4DownstreamLowerRate":"44","tc4UpstreamUpperRate":"40","tc4UpstreamLowerRate":"23","subsequentInstallationChargeApplies":"No","serviceClassDescription":null,"serviceClassLeadTime":null,"poiId":"4NBR","rawSQResultList":[{"name":"Address Location :","value":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceDescription":null,"serviceLeadTime":null},{"name":"Serviceability :","value":"Serviceable","serviceDescription":null,"serviceLeadTime":null},{"name":"Region","value":"Urban","serviceDescription":null,"serviceLeadTime":null},{"name":"cvcId","value":"CVC000000517867","serviceDescription":null,"serviceLeadTime":null},{"name":"PrimaryAccessTechnology","value":"Fibre To The Node","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Boundary Point","value":"Telecommunications Outlet","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"Business Fibre","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"NewDevelopmentsChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001659707","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"12","serviceDescription":"Site is serviceable by copper, jumpering is required.","serviceLeadTime":"10-15 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"20","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Copper Pair Status","value":"Inactive","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001636264","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"44","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"23","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"NBN Service Status","value":"Line Not In Use","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Last Active Date","value":"2017-12-22","serviceDescription":null,"serviceLeadTime":null}]},"success":true}
+2019-09-04T10:42:45.523Z  INFO main utilities.Log:21 - Login success
+2019-09-04T10:42:45.604Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-04T10:42:45.629Z  INFO main utilities.Log:21 - See Search textbox under SQ page
+2019-09-04T10:42:46.881Z  INFO main utilities.Log:21 - Entered value: LOC000029911414
+2019-09-04T10:42:47.254Z  INFO main utilities.Log:21 - Clicked on Search button
+2019-09-04T10:42:57.777Z  INFO main utilities.Log:21 - {"code":200,"message":"Search NBN detail by LocationId successfully","data":{"info":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceable":true,"region":"Urban","cvcId":"CVC000000517867","primaryAccess":"Fibre To The Node","networkBoundaryPoint":"Telecommunications Outlet","networkCoexistence":"Yes","serviceabilityClass":"13","newDevelopmentCharge":false,"copperPairId":"CPI300001636264","tc4DownstreamUpperRate":"100","tc4DownstreamLowerRate":"44","tc4UpstreamUpperRate":"40","tc4UpstreamLowerRate":"23","subsequentInstallationChargeApplies":"No","serviceClassDescription":null,"serviceClassLeadTime":null,"poiId":"4NBR","rawSQResultList":[{"name":"Address Location :","value":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceDescription":null,"serviceLeadTime":null},{"name":"Serviceability :","value":"Serviceable","serviceDescription":null,"serviceLeadTime":null},{"name":"Region","value":"Urban","serviceDescription":null,"serviceLeadTime":null},{"name":"cvcId","value":"CVC000000517867","serviceDescription":null,"serviceLeadTime":null},{"name":"PrimaryAccessTechnology","value":"Fibre To The Node","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Boundary Point","value":"Telecommunications Outlet","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"Business Fibre","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"NewDevelopmentsChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001659707","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"12","serviceDescription":"Site is serviceable by copper, jumpering is required.","serviceLeadTime":"10-15 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"20","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Copper Pair Status","value":"Inactive","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001636264","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"44","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"23","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"NBN Service Status","value":"Line Not In Use","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Last Active Date","value":"2017-12-22","serviceDescription":null,"serviceLeadTime":null}]},"success":true}
+2019-09-04T10:42:57.922Z  INFO main utilities.Log:21 - Location Id LOC000029911414 is displayed on the website
+2019-09-04T10:42:57.982Z  INFO main utilities.Log:21 - The field Serviceability Serviceable is displayed on the website
+2019-09-04T10:42:58.073Z  INFO main utilities.Log:21 - The value Urban of the field Region is display on website
+2019-09-04T10:42:58.153Z  INFO main utilities.Log:21 - The value CVC000000517867 of the field cvcId is display on website
+2019-09-04T10:42:58.232Z  INFO main utilities.Log:21 - The value Fibre To The Node of the field PrimaryAccessTechnology is display on website
+2019-09-04T10:42:58.309Z  INFO main utilities.Log:21 - The value Telecommunications Outlet of the field NetworkBoundaryPoint is display on website
+2019-09-04T10:42:58.386Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T10:42:58.472Z  INFO main utilities.Log:21 - The value 13 of the field ServiceabilityClass is display on website
+2019-09-04T10:42:58.559Z  INFO main utilities.Log:21 - The value No of the field BusinessFibre is display on website
+2019-09-04T10:42:58.639Z  INFO main utilities.Log:21 - The value No of the field NewDevelopmentsChargeApplies is display on website
+2019-09-04T10:42:58.720Z  INFO main utilities.Log:21 - The value CPI300001659707 of the field COPPERPAIRID is display on website
+2019-09-04T10:42:58.800Z  INFO main utilities.Log:21 - The value 12 of the field ServiceabilityClass is display on website
+2019-09-04T10:42:58.882Z  INFO main utilities.Log:21 - The value 100 of the field TC4DownstreamUpperRate is display on website
+2019-09-04T10:42:58.958Z  INFO main utilities.Log:21 - The value 40 of the field TC4DownstreamLowerRate is display on website
+2019-09-04T10:42:59.040Z  INFO main utilities.Log:21 - The value 20 of the field TC4UpstreamLowerRate is display on website
+2019-09-04T10:42:59.118Z  INFO main utilities.Log:21 - The value 40 of the field TC4UpstreamUpperRate is display on website
+2019-09-04T10:42:59.192Z  INFO main utilities.Log:21 - The value Yes of the field SubsequentInstallationChargeApplies is display on website
+2019-09-04T10:42:59.270Z  INFO main utilities.Log:21 - The value Inactive of the field CopperPairStatus is display on website
+2019-09-04T10:42:59.349Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T10:42:59.426Z  INFO main utilities.Log:21 - The value CPI300001636264 of the field COPPERPAIRID is display on website
+2019-09-04T10:42:59.503Z  INFO main utilities.Log:21 - The value 13 of the field ServiceabilityClass is display on website
+2019-09-04T10:42:59.586Z  INFO main utilities.Log:21 - The value 100 of the field TC4DownstreamUpperRate is display on website
+2019-09-04T10:42:59.663Z  INFO main utilities.Log:21 - The value 44 of the field TC4DownstreamLowerRate is display on website
+2019-09-04T10:42:59.737Z  INFO main utilities.Log:21 - The value 23 of the field TC4UpstreamLowerRate is display on website
+2019-09-04T10:42:59.823Z  INFO main utilities.Log:21 - The value 40 of the field TC4UpstreamUpperRate is display on website
+2019-09-04T10:42:59.902Z  INFO main utilities.Log:21 - The value Line Not In Use of the field NBNServiceStatus is display on website
+2019-09-04T10:42:59.987Z  INFO main utilities.Log:21 - The value No of the field SubsequentInstallationChargeApplies is display on website
+2019-09-04T10:43:00.071Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T10:43:00.146Z  INFO main utilities.Log:21 - The value 2017-12-22 of the field LastActiveDate is display on website
+2019-09-04T14:00:52.618Z  INFO main utilities.Log:21 - Login success
+2019-09-04T14:00:52.798Z  INFO main utilities.Log:21 - Clicked on box Service Qualification
+2019-09-04T14:00:52.822Z  INFO main utilities.Log:21 - See Search textbox under SQ page
+2019-09-04T14:00:54.024Z  INFO main utilities.Log:21 - Entered value: LOC000029911414
+2019-09-04T14:01:17.075Z  INFO main utilities.Log:21 - Clicked on Search button
+2019-09-04T14:01:28.071Z  INFO main utilities.Log:21 - {"code":200,"message":"Search NBN detail by LocationId successfully","data":{"info":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceable":true,"region":"Urban","cvcId":"CVC000000517867","primaryAccess":"Fibre To The Node","networkBoundaryPoint":"Telecommunications Outlet","networkCoexistence":"Yes","serviceabilityClass":"13","newDevelopmentCharge":false,"copperPairId":"CPI300001636264","tc4DownstreamUpperRate":"100","tc4DownstreamLowerRate":"44","tc4UpstreamUpperRate":"40","tc4UpstreamLowerRate":"23","subsequentInstallationChargeApplies":"No","serviceClassDescription":null,"serviceClassLeadTime":null,"poiId":"4NBR","rawSQResultList":[{"name":"Address Location :","value":"LOC000029911414 : 1 MAI CT, MAROOCHYDORE, QLD 4558","serviceDescription":null,"serviceLeadTime":null},{"name":"Serviceability :","value":"Serviceable","serviceDescription":null,"serviceLeadTime":null},{"name":"Region","value":"Urban","serviceDescription":null,"serviceLeadTime":null},{"name":"cvcId","value":"CVC000000517867","serviceDescription":null,"serviceLeadTime":null},{"name":"PrimaryAccessTechnology","value":"Fibre To The Node","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Boundary Point","value":"Telecommunications Outlet","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"Business Fibre","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"NewDevelopmentsChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001659707","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"12","serviceDescription":"Site is serviceable by copper, jumpering is required.","serviceLeadTime":"10-15 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"20","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Copper Pair Status","value":"Inactive","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"COPPER PAIR ID","value":"CPI300001636264","serviceDescription":null,"serviceLeadTime":null},{"name":"ServiceabilityClass","value":"13","serviceDescription":"Site is serviceable by copper, all infrastructure is in place.","serviceLeadTime":"3-5 days"},{"name":"TC4 Downstream Upper Rate","value":"100","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Downstream Lower Rate","value":"44","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Lower Rate","value":"23","serviceDescription":null,"serviceLeadTime":null},{"name":"TC4 Upstream Upper Rate","value":"40","serviceDescription":null,"serviceLeadTime":null},{"name":"NBN Service Status","value":"Line Not In Use","serviceDescription":null,"serviceLeadTime":null},{"name":"SubsequentInstallationChargeApplies","value":"No","serviceDescription":null,"serviceLeadTime":null},{"name":"Network Coexistence","value":"Yes","serviceDescription":null,"serviceLeadTime":null},{"name":"Last Active Date","value":"2017-12-22","serviceDescription":null,"serviceLeadTime":null}]},"success":true}
+2019-09-04T14:01:28.243Z  INFO main utilities.Log:21 - Location Id LOC000029911414 is displayed on the website
+2019-09-04T14:01:28.329Z  INFO main utilities.Log:21 - The field Serviceability Serviceable is displayed on the website
+2019-09-04T14:01:28.421Z  INFO main utilities.Log:21 - The value Urban of the field Region is display on website
+2019-09-04T14:01:28.509Z  INFO main utilities.Log:21 - The value CVC000000517867 of the field cvcId is display on website
+2019-09-04T14:01:28.622Z  INFO main utilities.Log:21 - The value Fibre To The Node of the field PrimaryAccessTechnology is display on website
+2019-09-04T14:01:28.727Z  INFO main utilities.Log:21 - The value Telecommunications Outlet of the field NetworkBoundaryPoint is display on website
+2019-09-04T14:01:28.859Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T14:01:28.972Z  INFO main utilities.Log:21 - The value 13 of the field ServiceabilityClass is display on website
+2019-09-04T14:01:29.075Z  INFO main utilities.Log:21 - The value No of the field BusinessFibre is display on website
+2019-09-04T14:01:29.182Z  INFO main utilities.Log:21 - The value No of the field NewDevelopmentsChargeApplies is display on website
+2019-09-04T14:01:29.310Z  INFO main utilities.Log:21 - The value CPI300001659707 of the field COPPERPAIRID is display on website
+2019-09-04T14:01:29.402Z  INFO main utilities.Log:21 - The value 12 of the field ServiceabilityClass is display on website
+2019-09-04T14:01:29.509Z  INFO main utilities.Log:21 - The value 100 of the field TC4DownstreamUpperRate is display on website
+2019-09-04T14:01:29.591Z  INFO main utilities.Log:21 - The value 40 of the field TC4DownstreamLowerRate is display on website
+2019-09-04T14:01:29.677Z  INFO main utilities.Log:21 - The value 20 of the field TC4UpstreamLowerRate is display on website
+2019-09-04T14:01:29.785Z  INFO main utilities.Log:21 - The value 40 of the field TC4UpstreamUpperRate is display on website
+2019-09-04T14:01:29.864Z  INFO main utilities.Log:21 - The value Yes of the field SubsequentInstallationChargeApplies is display on website
+2019-09-04T14:01:29.990Z  INFO main utilities.Log:21 - The value Inactive of the field CopperPairStatus is display on website
+2019-09-04T14:01:30.083Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T14:01:30.163Z  INFO main utilities.Log:21 - The value CPI300001636264 of the field COPPERPAIRID is display on website
+2019-09-04T14:01:30.256Z  INFO main utilities.Log:21 - The value 13 of the field ServiceabilityClass is display on website
+2019-09-04T14:01:30.340Z  INFO main utilities.Log:21 - The value 100 of the field TC4DownstreamUpperRate is display on website
+2019-09-04T14:01:30.437Z  INFO main utilities.Log:21 - The value 44 of the field TC4DownstreamLowerRate is display on website
+2019-09-04T14:01:30.524Z  INFO main utilities.Log:21 - The value 23 of the field TC4UpstreamLowerRate is display on website
+2019-09-04T14:01:30.650Z  INFO main utilities.Log:21 - The value 40 of the field TC4UpstreamUpperRate is display on website
+2019-09-04T14:01:30.771Z  INFO main utilities.Log:21 - The value Line Not In Use of the field NBNServiceStatus is display on website
+2019-09-04T14:01:30.870Z  INFO main utilities.Log:21 - The value No of the field SubsequentInstallationChargeApplies is display on website
+2019-09-04T14:01:30.959Z  INFO main utilities.Log:21 - The value Yes of the field NetworkCoexistence is display on website
+2019-09-04T14:01:31.087Z  INFO main utilities.Log:21 - The value 2017-12-22 of the field LastActiveDate is display on website

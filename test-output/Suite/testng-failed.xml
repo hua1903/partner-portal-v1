@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="sUsername" value="tmaTestAdmin"/>
+  <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+  <parameter name="sPassword" value="tmaTestAdmin0"/>
+  <test name="Login Fail">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+    <parameter name="sPassword" value="tmaTestAdmin1"/>
+    <classes>
+      <class name="tests.TC_LoginFail"/>
+    </classes>
+  </test> <!-- Login Fail -->
+  <test name="Login Sucess">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+    <parameter name="sPassword" value="tmaTestAdmin0"/>
+    <classes>
+      <class name="tests.TC_LoginSuccess"/>
+    </classes>
+  </test> <!-- Login Sucess -->
+  <test name="Login Fail(failed)">
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="url" value="https://cindy.telecombilling.com.au/bureau-portal/?bureau=CORTEL"/>
+    <parameter name="sPassword" value="tmaTestAdmin1"/>
+    <classes>
+      <class name="tests.TC_LoginFail">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginFail" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.TC_LoginFail -->
+      <class name="tests.TC_LoginSuccess">
+        <methods>
+          <include name="initialDelay"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.TC_LoginSuccess -->
+    </classes>
+  </test> <!-- Login Fail(failed) -->
+</suite> <!-- Failed suite [Suite] -->

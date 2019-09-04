@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite-Verify Service Qualification page]">
+  <parameter name="searchField" value="Location ID"/>
+  <parameter name="sUsername" value="tmaTestAdmin"/>
+  <parameter name="value" value="LOC000029911414"/>
+  <parameter name="url" value="http://10.3.2.10:9292/partner-portal/?bureau=cortel"/>
+  <parameter name="sPassword" value="tmaTestAdmin0"/>
+  <test name="Search Location ID">
+    <parameter name="searchField" value="Location ID"/>
+    <parameter name="sUsername" value="tmaTestAdmin"/>
+    <parameter name="value" value="LOC000029911414"/>
+    <parameter name="url" value="http://10.3.2.10:9292/partner-portal/?bureau=cortel"/>
+    <parameter name="sPassword" value="tmaTestAdmin0"/>
+    <classes>
+      <class name="tests.TC_SearchLocationID"/>
+    </classes>
+  </test> <!-- Search Location ID -->
+</suite> <!-- Failed suite [Suite-Verify Service Qualification page] -->
