@@ -36,6 +36,7 @@ public class BaseTest {
 
 		String host = System.getProperty("seleniumHubHost");
 		System.out.println(host);
+		System.out.println("Hua Test git hub webhook");
 
 		driver = new RemoteWebDriver(new URL("http://" + host + ":4444/wd/hub"), dc);
 		// driver = new RemoteWebDriver(new URL("http://localhost:9515"), dc);
