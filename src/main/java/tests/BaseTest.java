@@ -19,10 +19,6 @@ public class BaseTest {
 
 	@BeforeSuite
 	public void initialDelay() {
-		// intentionally added this as chrome/firefox containers take few ms to
-		// register
-		// to hub - test fails saying hub does not have node!!
-		// very rare
 		Uninterruptibles.sleepUninterruptibly(2, TimeUnit.SECONDS);
 	}
 
@@ -36,10 +32,8 @@ public class BaseTest {
 
 		String host = System.getProperty("seleniumHubHost");
 		System.out.println(host);
-		System.out.println("Hua Test git hub webhook-second test");
 
-		driver = new RemoteWebDriver(new URL("http://" + host + ":4444/wd/hub"), dc);
-		// driver = new RemoteWebDriver(new URL("http://localhost:9515"), dc);
+		driver = new RemoteWebDriver(new URL("http://" + host + "/wd/hub"), dc);
 	}
 
 	@AfterTest
@@ -47,3 +41,5 @@ public class BaseTest {
 		driver.quit();
 	}
 }
+
+

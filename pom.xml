@@ -99,8 +99,8 @@
 					</execution>
 				</executions>
 				<configuration>
-					<!-- vinsdocker is org name. -->
-					<!-- containertest is the name of the image / application -->
+					<!-- 03191992 is org name. -->
+					<!-- demo is the name of the image / application -->
 					<repository>03191992/demo</repository>
 					<!-- version of your image: could be sprint11 or release5 etc -->
 					<tag>partnerportalv1</tag>
